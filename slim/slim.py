@@ -216,7 +216,7 @@ class SLIM:
         bins = np.linspace(MP.min(), MP.max(), num=100)
         digitized = np.digitize(MP, bins)
 
-        # Retreieve the first 5 bins
+        # Retrieve the first 5 bins
         selected_bins = np.unique(digitized)[:5]
         motifs = {
             'indices': [],

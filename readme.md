@@ -1,6 +1,6 @@
 # Side-Length-Independent Motif (SLIM) algorithm
 
-Python implementation of a time series motif discovery and 'volatility' analysis algorithm (Side-Length-Independent Motif).
+Python implementation of a multivariate time series motif discovery and 'volatility' analysis algorithm (Side-Length-Independent Motif).
 
 Inspired by _Cartwright et. al. (2022)_.
 
